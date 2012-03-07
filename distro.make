@@ -7,7 +7,7 @@ projects[drupal][version] = "7.12"
 ; Modules
 projects[ctools][version] = "1.0-rc1"
 
-projects[date][version] = "2.0-rc2"
+projects[date][version] = "2.2"
 
 projects[features][version] = "1.0-beta6"
 
@@ -15,6 +15,6 @@ projects[recipe][version] = "1.2"
 
 projects[strongarm][version] = "2.0-beta5"
 
-projects[views][version] = "3.1"
+projects[views][version] = "3.3"
 
-projects[schemaorg][version] = "1.x-dev"
+projects[schemaorg][version] = "1.0-beta2"
