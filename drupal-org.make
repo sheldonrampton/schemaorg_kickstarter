@@ -37,7 +37,7 @@ projects[schemaorg_cache][download][revision] = 167f480946b579d91ba9467ccdfa68c5
 projects[schemaorg_cache][download][branch] = 7.x-1.x
 projects[schemaorg_cache][type] = "module"
 ; Remove requirement to patch Schema.org module
-projects[schemaorg][patch][2046843] = https://drupal.org/files/remove_requirement_to_patch_schemaorg-2046843-1.patch
+projects[schemaorg][patch][2046843] = http://drupal.org/files/remove_requirement_to_patch_schemaorg-2046843-1.patch
 
 projects[efb][version] = 1.x-dev
 projects[efb][subdir] = contrib
