@@ -30,8 +30,9 @@ dependencies[] = recipe
 dependencies[] = strongarm
 dependencies[] = views
 dependencies[] = schemaorg
-dependencies[] = schemaorg_event
-dependencies[] = schemaorg_person
-dependencies[] = schemaorg_recipe
+dependencies[] = schemaorg_ui
+dependencies[] = schemaorg_cache
+dependencies[] = efb
+dependencies[] = efb_schemaorg
 
 files[] = schemaorg_kickstarter.profile
