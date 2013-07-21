@@ -11,6 +11,7 @@ api = 2
 core = 7.x
 
 includes[] = drupal-org-core.make
+includes[debut_section] = "http://drupalcode.org/project/debut_section.git/blob_plain/refs/heads/7.x-1.x:/debut_section.make.inc"
 
 projects[schemaorg_kickstarter][type] = profile
 projects[schemaorg_kickstarter][download][type] = git

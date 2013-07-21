@@ -47,5 +47,3 @@ projects[efb][download][revision] = 0e70d160245d9720ba4af34e66674acd03ada1a0
 projects[efb][download][branch] = 7.x-1.x
 projects[efb][type] = "module"
 
-includes[debut_section] = "http://drupalcode.org/project/debut_section.git/blob_plain/refs/heads/7.x-1.x:/debut_section.make.inc"
-
