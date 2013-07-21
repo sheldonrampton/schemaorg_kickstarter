@@ -14,5 +14,5 @@ includes[] = drupal-org-core.make
 
 projects[schemaorg_kickstarter][type] = profile
 projects[schemaorg_kickstarter][download][type] = git
-projects[schemaorg_kickstarter][download][url] = http://git.drupal.org/project/schemaorg_kickstarter.git
-projects[schemaorg_kickstarter][download][branch] = 7.x-1.x
+projects[schemaorg_kickstarter][download][url] = https://github.com/sheldonrampton/schemaorg_kickstarter.git
+projects[schemaorg_kickstarter][download][branch] = sheldon_fork
